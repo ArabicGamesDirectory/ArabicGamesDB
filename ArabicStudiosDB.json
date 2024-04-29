@@ -1,0 +1,505 @@
+[
+    {
+        "Name": "Spooky Hand Games",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/HandSpooky",
+        "Info added by": ""
+    },
+    {
+        "Name": "sandicraft",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/SandiCraft_ST",
+        "Info added by": ""
+    },
+    {
+        "Name": "Jawaker",
+        "Type": "Studio/Company",
+        "Based in Countries": "United Arab Emirates",
+        "Website Link": "https://www.jawaker.com",
+        "Social Link": "https://www.linkedin.com/company/jawaker/",
+        "Info added by": ""
+    },
+    {
+        "Name": "Qindeel Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/QindeelStudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "AHAKuo Creations",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.ahakuo.com",
+        "Social Link": "https://twitter.com/AHAKuoCreations",
+        "Info added by": ""
+    },
+    {
+        "Name": "cockteilGames",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://linktr.ee/Nsh777",
+        "Social Link": "https://twitter.com/CockatielGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "ThunderMoon Studio",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/ThunderMoon_std",
+        "Info added by": ""
+    },
+    {
+        "Name": "Tawar Games",
+        "Type": "Team",
+        "Based in Countries": "Qatar",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/TawarGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Addu Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://addustudio.com",
+        "Social Link": "https://twitter.com/AdduStudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Muhtarefeen",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://www.muhtarefeen.com/",
+        "Social Link": "https://twitter.com/muhtarefeen",
+        "Info added by": ""
+    },
+    {
+        "Name": "Evolite Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://linktr.ee/EvoliteStudio",
+        "Social Link": "https://twitter.com/EvoliteStudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Zytoona",
+        "Type": "Studio/Company",
+        "Based in Countries": "",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/ZytoonaGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "GameIT",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.gameit.ai",
+        "Social Link": "https://twitter.com/Gameit_ai",
+        "Info added by": ""
+    },
+    {
+        "Name": "yaqut games",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "http://www.yaqutgames.com/",
+        "Social Link": "https://twitter.com/yaqutgames",
+        "Info added by": ""
+    },
+    {
+        "Name": "HighGround",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/HighGroundDev",
+        "Info added by": ""
+    },
+    {
+        "Name": "Mosaique Games",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://www.linkedin.com/company/mosaique-games/",
+        "Info added by": ""
+    },
+    {
+        "Name": "AJA Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/StudioAja",
+        "Info added by": ""
+    },
+    {
+        "Name": "omelet games",
+        "Type": "Studio/Company",
+        "Based in Countries": "",
+        "Website Link": "https://omeletgames.com",
+        "Social Link": "",
+        "Info added by": ""
+    },
+    {
+        "Name": "Semaphore Lab",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.semaphorelab.com",
+        "Social Link": "https://twitter.com/SemaphoreLab",
+        "Info added by": ""
+    },
+    {
+        "Name": "Khosouf Studio",
+        "Type": "Team",
+        "Based in Countries": "United Arab Emirates",
+        "Website Link": "https://www.khosouf.com",
+        "Social Link": "https://twitter.com/khosouf_studio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Mezan Studios",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://mezanstudios.com",
+        "Social Link": "https://twitter.com/MezanStudios",
+        "Info added by": ""
+    },
+    {
+        "Name": "Jondob Games",
+        "Type": "Team",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://en.jondobgames.com/",
+        "Social Link": "https://twitter.com/JondobGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "TEAM 0",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://linktr.ee/_team.0_",
+        "Social Link": "https://twitter.com/TeamTz0",
+        "Info added by": ""
+    },
+    {
+        "Name": "NextToon",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://nexttoon.net/",
+        "Social Link": "https://twitter.com/NextToonNet",
+        "Info added by": ""
+    },
+    {
+        "Name": "RABABA Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://rababagames.com/rababaunder/",
+        "Social Link": "https://www.linkedin.com/company/rababa-games/",
+        "Info added by": ""
+    },
+    {
+        "Name": "Lucid Party",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/LucidPartyGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Table Knight Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://linktr.ee/TableKnightGames",
+        "Social Link": "https://twitter.com/TableKnightGame",
+        "Info added by": ""
+    },
+    {
+        "Name": "Tamatem Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://tamatem.co/",
+        "Social Link": "https://twitter.com/tamatemgames",
+        "Info added by": ""
+    },
+    {
+        "Name": "MASH. DASH",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/M4SHDASH",
+        "Info added by": ""
+    },
+    {
+        "Name": "Golden Sands",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/GSandstudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Danar Dev",
+        "Type": "Individual",
+        "Based in Countries": "Iraq",
+        "Website Link": "https://danardev.itch.io/",
+        "Social Link": "https://twitter.com/DanarKayfi",
+        "Info added by": ""
+    },
+    {
+        "Name": "Xitmnt",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://linktr.ee/xitmnt.sa?utm_source=linktree_admin_share",
+        "Social Link": "https://twitter.com/Xitmnt1",
+        "Info added by": ""
+    },
+    {
+        "Name": "Player One",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "http://playeronegames.net",
+        "Social Link": "https://twitter.com/PlayerOneSA",
+        "Info added by": ""
+    },
+    {
+        "Name": "ARK Entertainment",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/Arkstudio_sa",
+        "Info added by": ""
+    },
+    {
+        "Name": "AlBuraqWings",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/alburaqwings",
+        "Info added by": ""
+    },
+    {
+        "Name": "Nomadroid Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "http://nomadroid.co",
+        "Social Link": "https://twitter.com/Nomadroid",
+        "Info added by": ""
+    },
+    {
+        "Name": "UMX Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://umxstudio.co",
+        "Social Link": "https://twitter.com/UMXStudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "rgs studio",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://linktr.ee/rgs.stu",
+        "Social Link": "https://www.instagram.com/rgs_stu/?igshid=YmMyMTA2M2Y%3D",
+        "Info added by": ""
+    },
+    {
+        "Name": "Babil Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://babilgames.com",
+        "Social Link": "https://www.linkedin.com/company/babil-games/",
+        "Info added by": ""
+    },
+    {
+        "Name": "Shanab Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "http://www.shanabgames.com",
+        "Social Link": "https://www.linkedin.com/company/shanab-games/",
+        "Info added by": ""
+    },
+    {
+        "Name": "fnna.studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://www.instagram.com/fnna.studio/?igshid=YmMyMTA2M2Y%3D",
+        "Info added by": ""
+    },
+    {
+        "Name": "FitNot",
+        "Type": "Studio/Company",
+        "Based in Countries": "Egypt",
+        "Website Link": "https://fitnotgames.com",
+        "Social Link": "https://twitter.com/FitNotGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Blue Tango Street",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://www.bluetangostreet.com",
+        "Social Link": "https://twitter.com/BlueTangoStreet",
+        "Info added by": ""
+    },
+    {
+        "Name": "Starvania",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.linkedin.com/company/starvaniastudio/",
+        "Social Link": "https://twitter.com/StarvaniaStudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Hakawati Studio",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://hakawatistudios.com/",
+        "Social Link": "https://www.linkedin.com/company/hakawati-studio/about/",
+        "Info added by": ""
+    },
+    {
+        "Name": "lank studio",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://linktr.ee/lankstudio",
+        "Social Link": "https://twitter.com/StudioLank",
+        "Info added by": ""
+    },
+    {
+        "Name": "Spoilz",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.spoilz.studio/",
+        "Social Link": "https://twitter.com/spoilzgames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Falafel Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "United Arab Emirates",
+        "Website Link": "https://falafel-games.com/",
+        "Social Link": "https://www.linkedin.com/company/falafel-games/",
+        "Info added by": ""
+    },
+    {
+        "Name": "Boss Bunny Games",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.freejmatch.com",
+        "Social Link": "https://twitter.com/bossbunnygames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Northend Games",
+        "Type": "Team",
+        "Based in Countries": "Iraq",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/Northend_Games",
+        "Info added by": ""
+    },
+    {
+        "Name": "momaiz studio",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/momaizstudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Maysalward",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://www.maysalward.com",
+        "Social Link": "https://www.linkedin.com/company/maysalward/",
+        "Info added by": ""
+    },
+    {
+        "Name": "Mizrab",
+        "Type": "Team",
+        "Based in Countries": "",
+        "Website Link": "https://www.mizrab.co",
+        "Social Link": "",
+        "Info added by": ""
+    },
+    {
+        "Name": "Ambrator Games",
+        "Type": "Team",
+        "Based in Countries": "Jordan",
+        "Website Link": "http://ambratorgames.com",
+        "Social Link": "https://twitter.com/AmbratorGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "CatCaveWithin",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://catcavewithin.com/lander",
+        "Social Link": "https://twitter.com/CatCaveWithin",
+        "Info added by": ""
+    },
+    {
+        "Name": "Shafra Games",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://shafrastudio.itch.io/",
+        "Social Link": "https://twitter.com/Shafrastudio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Alharbi Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.youtube.com/channel/UC5yFud-LclNBJb3G-vk0Ktw",
+        "Social Link": "https://www.tiktok.com/@alharbi.studio",
+        "Info added by": ""
+    },
+    {
+        "Name": "Salama Productions",
+        "Type": "Team",
+        "Based in Countries": "Egypt",
+        "Website Link": "https://www.salamaproductions.com/",
+        "Social Link": "https://twitter.com/SalamaPr",
+        "Info added by": ""
+    },
+    {
+        "Name": "Retro Gears Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "http://retrogearssa.com/",
+        "Social Link": "https://twitter.com/RetroGearsSA",
+        "Info added by": ""
+    },
+    {
+        "Name": "Onsora Games",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.starvania.com",
+        "Social Link": "https://twitter.com/OnsoraGames",
+        "Info added by": ""
+    },
+    {
+        "Name": "Not a Miracle Studio",
+        "Type": "Team",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "",
+        "Social Link": "https://twitter.com/NotAMiracleSA",
+        "Info added by": ""
+    },
+    {
+        "Name": "Fahy Studios",
+        "Type": "Studio/Company",
+        "Based in Countries": "Saudi Arabia",
+        "Website Link": "https://www.fahy.gg/",
+        "Social Link": "https://twitter.com/FahyStudios",
+        "Info added by": ""
+    },
+    {
+        "Name": "Chickmania Entertainment",
+        "Type": "Studio/Company",
+        "Based in Countries": "Jordan",
+        "Website Link": "https://chickmania.com",
+        "Social Link": "https://www.linkedin.com/company/chick-mania-entertainment/"
+    }
+]
